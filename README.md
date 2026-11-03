@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center"><img width="850" src="https://file.garden/aumKTvQMxG64Aifq/Untitled487_20261103090619.png" /></p>
 
-<!--
-**vampireway/vampireway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
+  
+![](https://komarev.com/ghpvc/?username=situationcritical&color=31317B&style=plastic&label=lambs)
 
-Here are some ideas to get you started:
+<p align="center"><img width="400" src="https://file.garden/aumKTvQMxG64Aifq/Untitled487_20261103091946.png" alt="kaveh!" align="left" width="300" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+ ㅤ
+ 
+
+  <p align="center"><img width="850" src="https://file.garden/aumKTvQMxG64Aifq/Untitled487_20261103085654.png" /></p>
